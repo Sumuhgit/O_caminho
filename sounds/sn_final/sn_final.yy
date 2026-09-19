@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sn_final",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":270.05386,
+  "name":"sn_final",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sn_final.mp3",
+  "type":0,
+  "volume":1.0,
+}

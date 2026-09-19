@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sn_inicio",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":286.06693,
+  "name":"sn_inicio",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sn_inicio.mp3",
+  "type":0,
+  "volume":1.0,
+}
